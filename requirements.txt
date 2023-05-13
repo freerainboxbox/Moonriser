@@ -1,0 +1,12 @@
+certifi==2023.5.7
+distlib==0.3.6
+filelock==3.12.0
+pipenv==2023.4.29
+platformdirs==3.5.1
+progressbar2==4.2.0
+pyprog==1.1.0.post2
+python-utils==3.5.2
+segno==1.5.2
+VapourSynth @ file:///C:/Users/linmi/AppData/Local/Programs/VapourSynth/python/VapourSynth-62-cp311-cp311-win_amd64.whl
+virtualenv==20.23.0
+virtualenv-clone==0.5.7
